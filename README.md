@@ -13,3 +13,4 @@ cargo run
 ## Examples
 
 1. [example_zero](./example_zero) - A simple "Hello, World!" application.
+2. [example_one](./example_one) - A JSON API that returns a "pong" message.
