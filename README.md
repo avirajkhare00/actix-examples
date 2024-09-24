@@ -14,3 +14,4 @@ cargo run
 
 1. [example_zero](./example_zero) - A simple "Hello, World!" application.
 2. [example_one](./example_one) - A JSON API that returns a "pong" message.
+3. [example_two](./example_two) - A JSON API that reads a JSON file and returns user profile.

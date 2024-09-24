@@ -1,0 +1,12 @@
+[
+  {
+    "username": "john_doe",
+    "email": "john@example.com",
+    "bio": "Software developer and open-source enthusiast."
+  },
+  {
+    "username": "jane_doe",
+    "email": "jane@example.com",
+    "bio": "Graphic designer and creative artist."
+  }
+]
